@@ -13,6 +13,7 @@
 
 ```javascript
 console.log('world');
+console.log(`1 + 1 = ${1 + 1}`);
 ```
 
 ```glsl
@@ -115,6 +116,9 @@ hello world
 .vscode-light .hljs-link {
   color: #032f62;
   font-style: underline;
+}
+.vscode-light .hljs-subst {
+  color: #24292e;
 }
 </style>
 
